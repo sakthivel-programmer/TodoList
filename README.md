@@ -5,8 +5,8 @@ I have build a Todo list, that makes life easier by adding important tasks in it
 How my implementation in javascript?
    I have set of functions that runs my Todo list perfect, they are,
       1) MakeVisibleTheTask(){}:
-         This function will get the added task object data and creating an <li> for that any particular task and append that <li> tag in 
-      tha HTML file.
+         This function will get the added task object data and creating an li tag for that any particular task and append that li tag 
+      in the HTML file.
       2)renderList(){}:
          This functions works like a refreshing a page after adding or removing taks, whenever we adding or removing tasks the whole list 
       will be render again in order to get the current list. 
