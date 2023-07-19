@@ -1,6 +1,6 @@
-Hello Welcome!!!
-I am thrilled to share my second project in front end development as a beginer.
-I have build a Todo list, that makes life easier by adding important tasks in it, and make sure to complete them.
+<p>Hello Welcome!!!</p>
+<p>I am thrilled to share my second project in front end development as a beginer.</p>
+<p>I have build a Todo list, that makes life easier by adding important tasks in it, and make sure to complete them.</p>
 
 How my implementation in javascript?
    I have set of functions that runs my Todo list perfect, they are,
