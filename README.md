@@ -8,7 +8,7 @@
 <p>This function will get the added task object data and creating an li tag for that any particular task and append that li tag in the HTML file.</p>
 <h4>2)renderList(){}:</h4>
  <p>This functions works like a refreshing a page after adding or removing taks, whenever we adding or removing tasks the whole list will be render again in order to get the current list. </p>
-<h4>3)removeTask(){}:
+<h4>3)removeTask(){}:</h4>
 <p>This function takes an argument of task id of particular task and remove that task from the list.</p>
 <h4>addTask(){}:</h4>
 <p>This function takes an input of task name, and creating an object data of taks consists task name, task id and status of the task true or false.</p>
