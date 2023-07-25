@@ -72,6 +72,9 @@ input{
 	margin-left:2%;
 }
 
+.add-task img:hover{
+	cursor:pointer;	
+}
 /*Status div propertice*/
 
 .status{
@@ -94,8 +97,6 @@ input{
 	top: 12%;
 	height: 70%;
 	width: 100%;
-
-
 
 }
 /*Make the cursor as pointer on hovering the clear-all-task button*/
